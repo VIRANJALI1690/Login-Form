@@ -1,0 +1,22 @@
+body{
+	background-color:purple;
+}
+#form{
+	background-color: white;
+	width: 25%;
+	margin: 120px auto;
+	padding:50px;
+	border-radius: 6px;
+}
+#btn{
+	color:white;
+	background-color:purple;
+	padding: :10px;
+	font-size: large;
+	border-radius: 10px;
+	
+}
+h1{
+    text-align: center;
+    color:black;
+}
